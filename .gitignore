@@ -1,0 +1,15 @@
+# runtime and cache directories
+/app/runtime
+/www/assets
+
+# composer
+/app/vendor
+composer.lock
+
+# bower
+/www/vendor
+
+/app/config/db.php
+
+TODO
+
