@@ -1,0 +1,7 @@
+{
+  "name": "yii-simple",
+  "dependencies": {
+    "jquery": "2.0.3",
+    "bootstrap": "3.0.3"
+  }
+}
